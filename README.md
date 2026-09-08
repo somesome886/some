@@ -1,5 +1,3 @@
-该网站去处：https://somesome886.github.io/some/index.html
-
 纯页面所用到的软件：Microsoft VS Code、Adobe Photoshop 2021
 
 纯页面所用的样式技术：HTML、CSS、JS
@@ -19,3 +17,5 @@
 练手家产：小松鼠、大狐狸、小黑熊、大黑熊、恶魔&天使(利安森)、信徒&神父(暂无姓名中)
 
 今年主更承风、艾迪，其余，全看缘分更新
+
+该网站去处：https://somesome886.github.io/some/index.html

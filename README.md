@@ -1,3 +1,5 @@
+该网站去处：https://somesome886.github.io/some/index.html
+
 纯页面所用到的软件：Microsoft VS Code、Adobe Photoshop 2021
 
 纯页面所用的样式技术：HTML、CSS、JS

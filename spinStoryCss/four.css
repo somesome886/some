@@ -5,7 +5,7 @@
 /* 主题色一 */
 
 
-body {
+/* body {
 	display: block;
 	margin: 0px;
 	padding: 0px;
@@ -243,13 +243,13 @@ body {
 	top: 0;
 	height: 100%;
 	width: 100%;
-}
+} */
 
 
 /* 主题色二 */
 
 
-/* body {
+body {
 	display: block;
 	margin: 0px;
 	padding: 0px;
@@ -487,7 +487,7 @@ body {
 	top: 0;
 	height: 100%;
 	width: 100%;
-} */
+}
 
 
 /* 主题色三 */

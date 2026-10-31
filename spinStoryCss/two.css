@@ -2,7 +2,7 @@
 /* 注：以下四种主题色，为原始主题色。可根据自己的喜好，替换该主题色即可 */
 
 
-/* 26.10月，已更换至主题色二 */
+/* 26.11月，已更换至主题色四 */
 
 
 /* 主题色一 */
@@ -239,7 +239,7 @@
 /* 主题色二 */
 
 
-body {
+/* body {
 	display: block;
 	margin: 0px;
 	padding: 0px;
@@ -464,7 +464,7 @@ body {
 	top: 0;
 	height: 100%;
 	width: 100%;
-}
+} */
 
 
 /* 主题色三 */
@@ -701,7 +701,7 @@ body {
 /* 主题色四 */
 
 
-/* body {
+body {
 	display: block;
 	margin: 0px;
 	padding: 0px;
@@ -926,4 +926,4 @@ body {
 	top: 0;
 	height: 100%;
 	width: 100%;
-} */
+}
